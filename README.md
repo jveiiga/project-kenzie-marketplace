@@ -24,7 +24,7 @@
 ## Desafios
   Nesse projeto o desafio foi utilizar laços de repetição para renderização dinâmica e condicionais para renderização dos produtos de acordo com a categoria, e caso o produto não tenha imagem cadastrada, é renderizado uma imagem no lugar que informa que o produto não tem imagem. 
   
-<h2 align="center"><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Clique para ver o projeto desenvolvido.</a></h2>
+<h2 align="center"><a target=blank href="https://jveiiga.github.io/project-kenzie-marketplace/">Clique para ver o projeto desenvolvido.</a></h2>
 
 ## Instalação
 
