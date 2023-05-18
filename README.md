@@ -29,7 +29,7 @@
 ## Instalação
 
     - Clonar repositorio
-    $ git clone https://github.com/jveiiga/project-kenzie-shopping-cart.git
+    $ git clone https://github.com/jveiiga/project-kenzie-marketplace.git
 
     Sobre os Projetos 📺
     
